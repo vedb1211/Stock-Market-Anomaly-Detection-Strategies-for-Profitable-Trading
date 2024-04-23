@@ -1,4 +1,4 @@
-# Stock-Market-Anomaly-Detection-Strategies-for-Profitable-Trading
+# Stock-Market-Anomaly-Detection
 
 ## Objective
 1. To develop robust machine learning models capable of detecting anomalies in stock market data, sourced from Yahoo finance.
